@@ -1,0 +1,41 @@
+body {
+  background-image: url("./assets/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  text-align: center;
+}
+
+button {
+  background-color: ivory;
+  box-shadow: 20px;
+  border-radius: 10%;
+  border: solid black 2px;
+  font-size: 20px;
+  margin: 10px;
+}
+.newJokeBtn {
+  background-color: ivory;
+  box-shadow: 20px;
+  border-radius: 20%;
+  border: solid black 2px;
+  padding: 22px;
+  padding-right: 6rem;
+  padding-left: 6rem;
+  font-size: x-large;
+  font-weight: 900;
+  margin: 85px;
+}
+.heading {
+  text-shadow: black 30px;
+  font-variant: small-caps;
+}
+h1 {
+  background-color: ivory;
+  padding: 18px;
+}
+.joke {
+  margin-top: 90px;
+  color: ivory;
+  font-size: 30px;
+}
